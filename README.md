@@ -1,2 +1,3 @@
 # ruiqian.dai
-Ruiqian (Ray) Dai's repository for projects
+
+This repository holds my personal projects.
